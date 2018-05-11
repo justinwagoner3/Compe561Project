@@ -9,4 +9,3 @@ C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBook
 C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.AssemblyInfo.cs
 C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.dll
 C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.pdb
-C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.csprojAssemblyReference.cache
