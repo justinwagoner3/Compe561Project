@@ -27,7 +27,7 @@ namespace JustBooks
                 {
                     var context = services.GetRequiredService<BookContext>();
                     context.Database.Migrate();
-                    //SeedData.Initialize(services);
+                    SeedData.Initialize(services);
                 }
                 catch (Exception ex)
                 {
