@@ -1,0 +1,12 @@
+C:\Users\justi\source\repos\JustBooks\JustBooks\bin\Debug\netcoreapp2.0\JustBooks.deps.json
+C:\Users\justi\source\repos\JustBooks\JustBooks\bin\Debug\netcoreapp2.0\JustBooks.runtimeconfig.json
+C:\Users\justi\source\repos\JustBooks\JustBooks\bin\Debug\netcoreapp2.0\JustBooks.runtimeconfig.dev.json
+C:\Users\justi\source\repos\JustBooks\JustBooks\bin\Debug\netcoreapp2.0\JustBooks.dll
+C:\Users\justi\source\repos\JustBooks\JustBooks\bin\Debug\netcoreapp2.0\JustBooks.pdb
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.AssemblyInfo.cs
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.dll
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.pdb
+C:\Users\justi\source\repos\JustBooks\JustBooks\obj\Debug\netcoreapp2.0\JustBooks.csprojAssemblyReference.cache
